@@ -1,8 +1,8 @@
 ITM Probe network information flow tool
----------------------------------------
+=======================================
 
 Introduction
-============
+------------
 
 [ITM Probe](http://www.ncbi.nlm.nih.gov/CBBresearch/Yu/downloads/itmprobe.html)
  is a tool for calculating information flow in biological networks.
@@ -14,7 +14,7 @@ environment to get up and running with ITM Probe quickly. The wrapper inputs and
 to the widely used [GML](https://en.wikipedia.org/wiki/Graph_Modelling_Language) format.
 
 Virtual environment with Docker
-===============================
+-------------------------------
 
 ITM Probe has many software dependencies which are difficult and time
 consuming to install manually. [Docker](https://www.docker.com/whatisdocker/)
@@ -37,7 +37,7 @@ Then you can proceed within the virtual environment in the same way as if you'd 
 everything locally.
 
 The ITM Probe wrapper
-=====================
+---------------------
 
 For help and list of command line options:
 
